@@ -1,3 +1,3 @@
 # Multi-Media-Jigsaw
  
-(Website)[http://gg.gg/MMJ-CF]
+[Click Here](http://gg.gg/MMJ-CF)
